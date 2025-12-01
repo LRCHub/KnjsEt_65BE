@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "sottacqua",
+  "base_artist": "chiamamifaro、rovere",
+  "createdAt": "2025-12-01T07:43:30.005135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Marco gioca sott'acqua",
+      "artist": "Murubutu",
+      "has_synced": true,
+      "path": "select/01_Marco_gioca_sott'acqua_Murubutu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "francesca sott'acqua",
+      "artist": "Sxrrxwland",
+      "has_synced": true,
+      "path": "select/02_francesca_sott'acqua_Sxrrxwland.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "sottacqua",
+      "artist": "chiamamifaro/Rovere",
+      "has_synced": true,
+      "path": "select/03_sottacqua_chiamamifaro_Rovere.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "sottacqua",
+      "artist": "chiamamifaro",
+      "has_synced": true,
+      "path": "select/04_sottacqua_chiamamifaro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "sottacqua (Official Video)",
+      "artist": "chiamamifaro",
+      "has_synced": false,
+      "path": "select/05_sottacqua_(Official_Video)_chiamamifaro.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "sottacqua",
+      "artist": "rovere",
+      "has_synced": true,
+      "path": "select/06_sottacqua_rovere.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SOTT'ACQUA",
+      "artist": "GA",
+      "has_synced": true,
+      "path": "select/07_SOTT'ACQUA_GA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sott'acqua",
+      "artist": "Jet Set Roger",
+      "has_synced": false,
+      "path": "select/pl_01_Sott'acqua_Jet_Set_Roger.txt"
+    }
+  ]
+}
